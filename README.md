@@ -1,29 +1,49 @@
-# 🏠 Ruang Kecil Saya
+# Ruang Kecil Saya
 
-Selamat datang di repository **Ruang Kecil Saya**! Ini adalah ruang digital pribadi untuk berbagi project, ide, dan pembelajaran.
+Selamat datang di repository **Ruang Kecil Saya**. Repository ini adalah ruang personal untuk berbagi ide, project, dan eksperimen.
 
-## 📋 Daftar Isi
-- [Tentang](#tentang)
-- [Project](#project)
-- [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
+## 📋 Tentang
 
-## 🎯 Tentang
+Repository ini dibuat untuk menyimpan berbagai project, script, dan eksperimen coding. Tempat untuk belajar, berkreasi, dan berbagi.
 
-Repository ini berisi berbagai project dan eksperimen coding yang sedang dikerjakan. Semua konten di sini adalah hasil pembelajaran dan pengembangan pribadi.
+## 🚀 Memulai
 
-## 💼 Project
+### Prerequisites
+- Node.js (v16 atau lebih tinggi)
+- npm atau yarn
 
-Akan ada berbagai project yang ditambahkan ke repository ini seiring waktu.
+### Installation
 
-## 🤝 Kontribusi
+```bash
+# Clone repository
+git clone https://github.com/pbalapbalapbro-tech/ruang-kecil-saya.git
 
-Repository ini adalah project pribadi, tetapi saya terbuka terhadap saran dan feedback.
+# Masuk ke folder
+cd ruang-kecil-saya
 
-## 📄 Lisensi
+# Install dependencies
+npm install
+```
 
-Project ini dilisensikan di bawah [MIT License](LICENSE)
+## 📁 Struktur Project
+
+```
+ruang-kecil-saya/
+├── README.md
+├── package.json
+├── .gitignore
+└── src/          # Source code
+    └── index.js
+```
+
+## 📝 License
+
+Project ini menggunakan [MIT License](LICENSE) - lihat file LICENSE untuk detail.
+
+## 👤 Author
+
+**pbalapbalapbro-tech**
 
 ---
 
-**Terakhir diperbarui:** 13 Juni 2026
+💡 Happy Coding!

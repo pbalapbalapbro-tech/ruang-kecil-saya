@@ -1,0 +1,18 @@
+{
+  "name": "ruang-kecil-saya",
+  "version": "1.0.0",
+  "description": "Personal repository untuk project, script, dan eksperimen coding",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "personal",
+    "project",
+    "learning"
+  ],
+  "author": "pbalapbalapbro-tech",
+  "license": "MIT"
+}
